@@ -17,7 +17,6 @@ El proyecto transforma datos crudos de operaciones portuarias en insights estrat
 ## 🛠️ Habilidades Técnicas Aplicadas
 1.  **Limpieza y Transformación (Power Query):** Modificación del esquema de datos, eliminación de dependencias circulares de fechas y normalización de tablas para optimizar el rendimiento del archivo.
 2.  **Modelado de Datos y DAX:** Creación de tablas de dimensiones temporales, y desarrollo de medidas personalizadas para el cálculo de tasas de eficiencia operacional y lógica regional.
-3.  **UI/UX Design (Modo Oscuro):** Aplicación de principios de diseño limpio (*Clean Data Design*), reduciendo el ruido visual para guiar la vista del usuario directamente a los indicadores clave de rendimiento (KPIs).
-
+3.  **UI/UX Design (Modo Oscuro):** Aplicación de principios de diseño limpio (*Clean Data Design*), reduciendo el ruido visual para guiar la vista del usuario directamente a los indicadores clave de rendimiento (KPIs)
 *   `[Nombre_De_Tu_Archivo].pbix`: Archivo editable del reporte de Power BI.
 *   `[Nombre_De_Tu_Base_De_Datos].csv`: Set de datos original utilizado para el análisis.
