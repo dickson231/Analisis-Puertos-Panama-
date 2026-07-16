@@ -8,6 +8,7 @@ This project transforms raw maritime shipping data into actionable executive ins
 
 ## 📷 Dashboard Overview
 
+<img width="1176" height="649" alt="image" src="https://github.com/user-attachments/assets/ae37c87b-0e8f-4439-a64f-af7aa8ff83d0" />
 
 
 ---
