@@ -27,10 +27,3 @@ This project transforms raw maritime shipping data into actionable executive ins
 1.  **Data Cleansing & ETL (Power Query):** Normalized schema layouts, resolved circular dependencies in date tables, and optimized data types to ensure high file performance.
 2.  **Data Modeling & DAX:** Built dedicated calendar dimension tables and wrote custom DAX measures to calculate cargo efficiency ratios and dynamic regional groupings.
 3.  **UI/UX Design (Dark Mode):** Applied clean data design principles, removing axis clutter and gridlines to guide the user's eye directly to key performance indicators (KPIs).
-
----
-
-## 📂 Repository Contents
-
-*   `[Your_File_Name].pbix`: The complete, interactive Power BI file.
-*   `[Your_Database_Name].csv`: The raw dataset used for this analysis.
