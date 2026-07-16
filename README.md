@@ -7,6 +7,7 @@ El proyecto transforma datos crudos de operaciones portuarias en insights estrat
 ---
 
 ## 📷 Vista General del Dashboard
+<img width="1176" height="649" alt="image" src="https://github.com/user-attachments/assets/79838ae5-dab9-424a-82ea-f522e84203fc" />
 
 💡 Hallazgos y Decisiones de Negocio Clave
 *   **Dominio del Litoral Atlántico:** Con un movimiento histórico de **5.1 millones de contenedores**, el Atlántico lidera la operación frente al Pacífico (**3.2 millones**). El reporte cuenta con funcionalidad de *Drill Down* para auditar individualmente puertos clave (MIT, Cristóbal, CCT, etc.).
